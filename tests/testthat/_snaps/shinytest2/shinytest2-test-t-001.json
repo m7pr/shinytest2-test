@@ -1,0 +1,12 @@
+{
+  "input": {
+    "greet": 1,
+    "name": "Tomasz"
+  },
+  "output": {
+    "greeting": "Hello Tomasz!"
+  },
+  "export": {
+
+  }
+}
